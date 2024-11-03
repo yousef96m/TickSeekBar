@@ -20,5 +20,6 @@ dependencyResolutionManagement {
     }
 }
 
-include ':sample', ':tickseekbar'
+include ':sample'
+include ':tickseekbar'
 
